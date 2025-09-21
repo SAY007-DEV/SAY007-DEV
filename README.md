@@ -63,7 +63,6 @@ conferencing, making it easy for teams to brainstorm, debug, and build
 projects remotely. With seamless integration of modern web technologies,
 DevLink fosters effective communication and collaboration for developers
 worldwide.
-Access: https://devlink-code.vercel.app
 Classification: [TOP SECRET]
 ```
 
@@ -74,7 +73,6 @@ designed to replicate the functionalities of Gemini API, a modern
 conversational AI platform. This project allows users to interact with the AI,
 store previous responses, and utilize text-to-speech functionality to
 enhance the user experience.
-Access: https://fennix-ai.vercel.app
 Classification: [CONFIDENTIAL]
 ```
 
@@ -132,7 +130,7 @@ $ cat mission.txt
 
 **[DAILY ROUTINE]:**
 ```
-Hours logged: 40 hours/day
+Hours logged: 10 hours/day
 ```
 
 ---
