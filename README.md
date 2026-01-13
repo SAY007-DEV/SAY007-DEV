@@ -96,7 +96,7 @@ $ cat /proc/skills
      ╔═══════════════════════════════════════╗
      ║           SKILL MATRIX                ║
      ╠═══════════════════════════════════════╣
-     ║  React, Node, Express, Mongodb                        ║
+     ║  React, Node, Express, Mongodb        ║
      ╚═══════════════════════════════════════╝
 ```
 
@@ -130,7 +130,7 @@ $ cat mission.txt
 
 **[DAILY ROUTINE]:**
 ```
-Hours logged: 10 hours/day
+Hours logged: 8 hours/day
 ```
 
 ---
@@ -152,7 +152,7 @@ $ netstat -an | grep LISTENING
 ```bash
 $ fortune | cowsay
  _________________________________
-< The Matrix has you, Sayooj K P ... >
+< The Matrix has you, ... >
  ---------------------------------
         \   ^__^
          \  (oo)\_______
@@ -165,7 +165,7 @@ $ fortune | cowsay
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-██ Welcome to my profile - Unauthorized access is prohibited ██
+██     Welcome to my profile - Unauthorized access is prohibited    ██
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
