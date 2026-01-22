@@ -87,7 +87,7 @@ $ cat /proc/skills
 | **CATEGORY** | **WEAPONS** |
 |:---:|:---:|
 | **Primary Language** | `JavaScript, python,c ` |
-| **Full Stack** | `[![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)` |
+| **Full Stack** | `[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)` |
 | **Currently Infiltrating** | `React native , next js` |
 
 <div align="center">
