@@ -15,7 +15,7 @@ Sayooj K P  (@SAY007-DEV)
 $ cat /dev/identity
 Role: Software Engineer 
 Company: Freelancing 
-Location: Kerala, India 
+Location: Bengaluru , India 
 Status: Open to new oppertunity 
 ```
 
